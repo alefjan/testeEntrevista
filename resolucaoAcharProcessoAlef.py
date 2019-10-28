@@ -21,5 +21,6 @@ len(processos)
 processos
 #identifica todos os processos unicos do texto
 processosUnicos=set(processos)
+#tamanho do dataframe
 len(processosUnicos)
 processosUnicos
